@@ -1,0 +1,7 @@
+{
+  "name": "Echo",
+  "publisher": "Daniel Wylie",
+  "include": [
+    "myos.core"
+  ]
+}

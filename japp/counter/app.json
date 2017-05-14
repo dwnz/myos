@@ -1,0 +1,7 @@
+{
+  "name": "Counter",
+  "publisher": "Daniel Wylie",
+  "include": [
+    "myos.core"
+  ]
+}
